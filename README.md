@@ -30,6 +30,7 @@ The tool uses the **Gemini API** and model by default for code analysis, but you
 
 ## Features
 
+- **Automatic Code Review on Commit**: DevInspector automatically reviews your code each time you make a commit, ensuring that code quality is maintained consistently.
 - **AI-Powered Code Review**: Uses advanced AI to automatically review code and suggest improvements.
 - **Customizable Models**: While the tool uses the **Gemini API** by default, you can switch to any model that fits your needs.
 - **Error Detection**: Identifies common errors and potential bugs in your codebase.
